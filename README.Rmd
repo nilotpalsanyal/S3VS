@@ -1,0 +1,31 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# S3VS
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of S3VS is to ...
+
+## Installation
+
+You can install the development version of S3VS like so:
+
+``` r
+devtools::install_github("nilotpalsanyal/S3VS")
+```
+
+<!-- You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this. -->
