@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of S3VS is to …
+The goal of S3VS is to perform variable selection using the structured screen-and-select (S3VS) framework in linear models, generalized linear models with binary data, and survival models such as the Cox model and accelerated failure time (AFT) model.
 
 ## Installation
 

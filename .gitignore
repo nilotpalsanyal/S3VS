@@ -1,2 +1,6 @@
-/doc/
-/Meta/
+.Rhistory
+.RData
+.Rproj.user/
+inst/doc/
+*.tar.gz
+*.log
